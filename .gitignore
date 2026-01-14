@@ -1,0 +1,5 @@
+node_modules/\ndist/\n.env\n*.log
+.antigravity/
+node_modules
+.vercel
+.env*.local
